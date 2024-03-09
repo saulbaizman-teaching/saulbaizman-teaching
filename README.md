@@ -1,6 +1,17 @@
-This account hosts several repositories related to my courses on web design. 
+Hi! My name is Saul Baizman, and I'm an interactive designer, creative coder, design educator, and consultant based in Somerville, Massachusetts.
 
-## additional links
+## websites
 
-+ [View my personal work.](https://github.com/saulbaizman)
-+ [View my professional work.](https://github.com/baizmandesign)
++ [professional portfolio](https://baizmandesign.com)
++ [personal portfolio](https://saulbaizman.com)
+
+## github accounts
+
++ [professional work](https://github.com/baizmandesign)
++ [personal work](https://github.com/saulbaizman)
++ [teaching](https://github.com/saulbaizman-teaching)
+
+## contact information
+
++ email: [hello@baizman.com](mailto:hello@baizman.com)
++ phone: [617.863.0136](tel:16178630136)
