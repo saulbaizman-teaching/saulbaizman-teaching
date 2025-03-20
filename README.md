@@ -2,7 +2,7 @@ Hi! My name is Saul Baizman, and I'm an interactive designer, creative coder, de
 
 ## websites
 
-+ [professional portfolio](https://baizmandesign.com)
++ [professional portfolio](https://baizman.design)
 + [personal portfolio](https://saulbaizman.com)
 
 ## github accounts
@@ -13,5 +13,5 @@ Hi! My name is Saul Baizman, and I'm an interactive designer, creative coder, de
 
 ## contact information
 
-+ email: [hello@baizman.com](mailto:hello@baizman.com)
++ email: [teaching@baizman.com](mailto:teaching@baizman.com)
 + phone: [617.650.2783](tel:16176502783)
